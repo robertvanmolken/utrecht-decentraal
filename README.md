@@ -1,4 +1,4 @@
-# Utrecht De-centraal
+# Utrecht De-Centraal
 
 Deze repo bevat alle blockchain / hyperledger templates, smart contracts, en de uitwerking van de business case voor de hackathon Blockchain op het Spoor georganiseerd door ProRail.
 
