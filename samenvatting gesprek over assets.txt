@@ -1,0 +1,44 @@
+Samenvatting gesprek asset management met Geert Titulaer (asset management) 
+ProRail spreekt over assets (engels dus ) 
+Sap is op dit moment de bron van de waarheid van de assets. Ze registreren: 
+•	Metadata … soort, type etc.. 
+•	Technische documentatie van de assets . constructie tekening etc
+•	Functionele informatie  Fysiek (wat is het ) en functioneel (wat doet het )
+•	Geo systemen (waar staat het ?) 
+
+Wat gebeurt er als er combinaties mogelijkheden zijn .. verschillende updates over verschillende assets? Het uitwisselen van data is belangrijk en vaak ook een hoofdpijn dossier. 
+Uitwisselen van data is lastig . 
+Accusatie van de gegevens op het moment van wijzigen. 
+	Wijzigingen 1) .. object lijst export aan opdrachtnemer sturen 2) deze lijst is niet meer wijzigbaar, 3) de aannemer gat de assets.. 4) krijgt terug een aangepaste lijst na wijzigingen. 
+o	Issue hierbij  is dat de assets dus een tijdje uitgecheckt staan en in de tussentijd ook nog door iemand anders gewijzigd kan worden 
+o	Hiervoor is de Conflict modus in sap 
+	Wijzigings reacht tijdens onderhoud op basis van lock (synoniem met pvcs in software develpoment ) 
+
+Iedereen kan alle objecten raadplegen. Iedereen heeft lees rechten in sap
+Registratie van events op assets. 
+	Melding op basis van asset melding met basis informatie 
+	Let op ook melding vanuit machinist 
+	metingen die beschikbaar gesteld worden 
+	Wissel 
+o	Sensors 
+o	Stroom 
+o	Bekabeling 
+o	Onderhouds cyclus 
+	Planmatig gestuurd 
+	Nu op resultaat op perfromance 
+	Prestatiegericht contract 
+o	Veiligheid wordt centraal verplicth ingeschoten 
+o	Onderhoud op resultaat door odeerhoudsaannemer 
+o	Hoogovens belt met een batch met een fout erin 
+	Terug naar de bron 
+	Hoe wordt data nu opgelsagen en hoe gaat het nu 
+o	Conditie onderhoud en prestaties (COP) meet het omlopen van de wissel 
+o	
+	Hoe weet je zeker dat een inspecteur bij een element is geweest 
+o	Geen issue of hij er ook echt is geweest 
+	Auditing … 
+o	Hoe belagrijk  is dat . weten ze niet .. vertrouwen  handig dat je de onderhoushistorie 
+
+
+
+
